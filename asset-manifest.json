@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/commitone/static/css/main.aaf79f24.css",
-    "main.js": "/commitone/static/js/main.59fbb626.js",
+    "main.css": "/commitone/static/css/main.de8ccbeb.css",
+    "main.js": "/commitone/static/js/main.a03721e9.js",
+    "static/media/pn.png": "/commitone/static/media/pn.971aa9cc5422f03ff25a.png",
     "index.html": "/commitone/index.html",
-    "main.59fbb626.js.map": "/commitone/static/js/main.59fbb626.js.map"
+    "main.de8ccbeb.css.map": "/commitone/static/css/main.de8ccbeb.css.map",
+    "main.a03721e9.js.map": "/commitone/static/js/main.a03721e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaf79f24.css",
-    "static/js/main.59fbb626.js"
+    "static/css/main.de8ccbeb.css",
+    "static/js/main.a03721e9.js"
   ]
 }
